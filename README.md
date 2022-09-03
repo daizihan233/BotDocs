@@ -75,7 +75,7 @@ COS存储：50（参考最近 5 月的平均成本）<br>
 
 !> \[xxx\] 表示可选参数，(xxx) 表示必填
 
-?> 有问题小事 [Issue](https://github.com/daizihan233/Hanbot/issues) ，大事邮件 **hantools@foxmail.com** ，有QQ好友QQ说，没事儿别找我
+?> 有问题小事 [Issue](https://github.com/daizihan233/Hanbot/issues) ，大事邮件 **hantools@duck.com** ，有QQ好友QQ说，没事儿别找我
 
 # 开始
 
