@@ -13,7 +13,7 @@
 不要认为我没有事做！不要认为维护没有成本！不要认为我有义务解决你的任何问题！
 
 ?> 最后开个玩笑<br>
-![img_6.png](img_6.png)
+<img src="img_6.png" width="826" height="518" alt="提问价格表（梗图）">
 
 <!--# 关于成本 _（祖安部分）_
 那些他妈天天说这个不好那个不好的，你他妈怎么不自己做呢？<br>
@@ -312,10 +312,12 @@ COS存储：50（参考最近 5 月的平均成本）<br>
 !> 你赞助之后不会获得任何的回报，所以说你不必为我而花钱，完完全全靠自愿，最后的最后：祝您生活愉快 :)
 
 ## 打钱？（卑微 Orz
-![微信收款码](wxpay.png)
-![支付宝收款码](alipay.jpg)
-![QQ收款码](qqpay.png)
+下面有三张图片，但是不管我怎么调要么间距太大要么图片太大，没学过HTML，也不知道为啥……<br>
+<img src="wxpay.png" style="margin-top:-130px; transform: scale(50%)" alt="微信收款码">
 
+<img src="alipay.jpg" style="margin-top:-300px; transform: scale(50%)" alt="支付宝收款码">
+
+<img src="qqpay.png" style="margin-top:-300px; transform: scale(50%)" alt="QQ 收款码">
 
 ## 还有点废话：为什么最近不怎么更新迭代了？
 开学了，自然这些东西就往后放了，不过我也没有放弃，<br>
